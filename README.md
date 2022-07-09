@@ -1,0 +1,2 @@
+# angularInputPropertiesExemple
+Created with CodeSandbox
